@@ -9,6 +9,4 @@ while (K < INDICE) {
   console.log("valor soma: " + SOMA);
 }
 
-console.log(SOMA);
-
-//O valor da variável SOMA será 91
+console.log(SOMA); //O valor da variável SOMA será 91
