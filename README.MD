@@ -15,3 +15,7 @@ Altere a variável numeroEntrada para outros casos de teste
 ```powershell
 node .\2_teste.js
 ```
+
+### Questão 3
+
+Resposta no arquivo 3_teste.txt
