@@ -1,0 +1,9 @@
+1 - Ligo o primeiro interruptor e deixo ligado por alguns minutos para aquecer a lâmpada, depois desligo.
+2 - Ligo o segundo interruptor e deixo ligado.
+3 - Entro na primeira sala de lâmpada:
+ -- Se estiver ligada, é controlada pelo segundo interruptor
+ -- Se estiver desligada e quente, é controlada pelo primeiro interruptor
+ -- Se estiver desligada e fria, é controlada pelo terceiro interruptor
+4 - Entro na segunda sala de lâmpada e verifico os mesmos casos.
+
+Dessa forma terei a informação de 2 casos, e o terceiro é a opção que sobrar.

@@ -19,3 +19,7 @@ node .\2_teste.js
 ### Questão 3
 
 Resposta no arquivo 3_teste.txt
+
+### Questão 4
+
+Resposta no arquivo 4_teste.txt
