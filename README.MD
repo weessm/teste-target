@@ -23,3 +23,11 @@ Resposta no arquivo 3_teste.txt
 ### Questão 4
 
 Resposta no arquivo 4_teste.txt
+
+### Questão 5
+
+Altere a variável stringEntrada para outros casos de teste
+
+```powershell
+node .\5_teste.js
+```
